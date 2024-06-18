@@ -1,0 +1,25 @@
+#That streetlamp one I've been using
+#feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/wg/1686895745148845.jpg &
+
+#Gay Paris
+#feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/Wallpapers/1593528155407.jpg &
+
+#Same as lock screen (Kiki's Delivery Service windo w/Jiji)
+#feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/wg/1672730089496595.jpg &
+
+#Cozy town in Norway (I think?) this one may actually be too small, but it does look nice
+feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/wg/1686818443758275.jpg &
+
+#nice street somewhere, grainy film, cozy, but I'm not sure
+#feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/wg/1687884643354830.jpg &
+
+#looks like it's from gay Paris, nice rooftop pic, maybe a bit bright tho
+#feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/wg/1716956870196202.jpg &
+
+#works pretty well actually, nice warm colors, works with my color scheme
+#feh --bg-fill /home/seth/Desktop/wallpapers/Wallpapers/wg/1717014322782547.jpg &
+
+slstatus &
+xset s off -dpms &
+xrdb -merge ~/.Xresources &
+exec dwm
